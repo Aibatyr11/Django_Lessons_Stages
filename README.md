@@ -1,2 +1,3 @@
 django_lessons_stages
 step_1
+step_2
